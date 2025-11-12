@@ -10,7 +10,6 @@
     <li><a href="{{ url('/customers') }}" class="block px-4 py-2 rounded-lg hover:bg-green-600 transition">👥 Customers</a></li>
     <li><a href="{{ url('/suppliers') }}" class="block px-4 py-2 rounded-lg hover:bg-green-600 transition">🚚 Suppliers</a></li>
     <li><a href="{{ url('/suppliers/transactions') }}" class="block px-4 py-2 rounded-lg hover:bg-green-600 transition">📦 Supplier Transactions</a></li>
-    <li><a href="{{ url('/suppliers/payments') }}" class="block px-4 py-2 rounded-lg hover:bg-green-600 transition">💵 Supplier Payments</a></li>
     <li><a href="{{ url('/inventory') }}" class="block px-4 py-2 rounded-lg hover:bg-green-600 transition">🍎 Inventory</a></li>
     <li><a href="{{ url('/settings') }}" class="block px-4 py-2 rounded-lg hover:bg-green-600 transition">⚙️ Settings</a></li>
 </ul>
